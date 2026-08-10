@@ -10,6 +10,7 @@ This TypeScript programs aims to assist in processing BA approvals within Excels
 <p align="center">
   <em>Figure 1: Extracting BA application details with one click.</em>
 </p>
+
 ## Installation
 1. Download `BA Extract.osts`
 2. Open a **local copy** `Blanket Authority (BA) Tracking - 2026-27.xlsx`
