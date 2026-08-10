@@ -29,8 +29,16 @@ This TypeScript programs aims to assist in processing BA approvals within Excels
   
 ## Usage
 
-To run the script, 
+To run the script, click on the green Run button that was just created. Alternatively, head into the Automate tab once again, select View Scripts and Scripts from this Workbook. Click on BA Extract and click the green Run button from there.
 
 ## Features
+The main features of this program involve the extraction of specific information from within the excel file and the testing of said information to determine whether a BA application is set to be approved or not.
+A few of the key pieces include the following:
 
-## Built With
+### Cost Center Manager
+
+### GL summary
+
+### Prohibited List
+
+### Data Validation
