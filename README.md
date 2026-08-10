@@ -11,8 +11,9 @@ This TypeScript programs aims to assist in processing BA approvals within Excels
   <em>Figure 1: Extracting BA application details with one click.</em>
 </p>
 ## Installation
-1. Download `BA Extract.osts` onto your OneDrive 
-2. Open `Blanket Authority (BA) Tracking - 2026-27.xlsx`
+1. Download `BA Extract.osts`
+2. Move BA 
+2. Open a **local copy** `Blanket Authority (BA) Tracking - 2026-27.xlsx`
 3. Navigate to the Automate tab in the ribbon and select 'View Scripts' in the top left and `Scripts from this Workbook` in the dropdown. In Recent, select "View more Scripts" and navigate to the folder in your OneDrive where `BA Extract.osts` was saved.
 4. Click on "+ Add to this workbook"
 
