@@ -13,7 +13,7 @@ This TypeScript programs aims to assist in processing BA approvals within Excels
 ## Installation
 1. Download `BA Extract.ts` onto your computer 
 2. Open `Blanket Authority (BA) Tracking - 2026-27.xlsx`
-3. Navigate to the Automate tab in the ribbon and select 'New Script' in the top left
+3. Navigate to the Automate tab in the ribbon and select 'View Scripts' in the top left and `Scripts from this Workbook` in the dropdown
 
 
 ## Usage
