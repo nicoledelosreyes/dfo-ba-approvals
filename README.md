@@ -16,16 +16,15 @@ This TypeScript programs aims to assist in processing BA approvals within Excels
 
 ## Installation
 
-1. Download `BA Extract.osts`
-2. Open a **local copy** `Blanket Authority (BA) Tracking - 2026-27.xlsx`
-3. Navigate to the Automate tab in the ribbon and select 'View Scripts' in the top left and `Scripts from this Workbook` in the dropdown. 
-4. In Recent, select "View more Scripts" and navigate to the folder where `BA Extract.osts` was saved.
-    _TIP:_ Use Upload in the top right if you saved it to a local folder like Downloads (pretty likely).
+1. Navigate to the Blanket GACs folder in SharePoint and ensure that both **`Blanket Authority (BA) Tracking - 2026-27.xlsx`** and **`BA Extract.osts`** are present.
+2. Open **`Blanket Authority (BA) Tracking - 2026-27.xlsx`** in the app
+3. Navigate to the `Automate` tab in the ribbon and select `View Scripts` in the top left and `Scripts from this Workbook` in the dropdown. 
+4. In `Recent`, select `View more Scripts` and navigate to Blanket GACs folder in `Quick Access`, and select **`BA Extract.osts`** is.
 5. Click Open
-   - Select the "Comments" header cell in column F of the 2026-27 Tracker sheet
-   - 5.b Select "Add in workbook"
+   - Sroll to the bottom of the right-hand tab
+   - Tick `Associate with workbook` and `Add button to workbook`
 
-  _A green button to Run the program will appear in the selected cell. To adjust its size and placement, hold ctrl while using your mouse. Delete any additional buttons that are created in this process with ctrl + del._
+  _A green button to Run the program will appear in the selected cell. To adjust its size and placement, use the right-click on your mouse on normal operations to avoid triggering the run. Delete any additional buttons that are created in this process by right-clicking the button and selecting delete._
   
 ## Usage
 
