@@ -18,8 +18,8 @@ This TypeScript programs aims to assist in processing BA approvals within Excels
 
 1. Navigate to the Blanket GACs folder in SharePoint and ensure that both **`Blanket Authority (BA) Tracking - 2026-27.xlsx`** and **`BA Extract.osts`** are present.
 2. Open **`Blanket Authority (BA) Tracking - 2026-27.xlsx`** in the app
-3. Navigate to the `Automate` tab in the ribbon and select `View Scripts` in the top left and `Scripts from this Workbook` in the dropdown. 
-4. In `Recent`, select `View more Scripts` and navigate to Blanket GACs folder in `Quick Access`, and select **`BA Extract.osts`** is.
+3. Navigate to the `Automate` tab in the ribbon and select `View Scripts` in the top left and `Recent Scripts` in the dropdown. 
+4. Select `View more Scripts`, navigate to Blanket GACs folder in `Quick Access`, and select **`BA Extract.osts`**.
 5. Click Open
    - Sroll to the bottom of the right-hand tab
    - Tick `Associate with workbook` and `Add button to workbook`
